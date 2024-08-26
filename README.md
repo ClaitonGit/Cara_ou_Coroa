@@ -1,16 +1,17 @@
-# caraoucoroa
+<h1 align="center">
+    <br>App Cara ou coroa feito com Flutter<br/>
+</h1>
 
-A new Flutter project.
+## :bookmark: Sobre o Projeto
 
-## Getting Started
+Esse aplicativo gera tres imagens de cara ou coroa aleatorias.
 
-This project is a starting point for a Flutter application.
+## :rocket: Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter]
+- [Dart]
+- [Android Studio]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Layout mobile
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Mobile 1](https://user-images.githubusercontent.com/55120068/264184755-7ef7705d-e72d-4fb4-9bc4-182df9e8338a.png) ![Mobile 2]([https://github.com/ClaitonGit/Marketing_Dentista/assets/55120068/3764cb19-70d4-4b13-8b6e-8583afc49ff8.png](https://github.com/user-attachments/assets/7d20d7c8-a7b1-485e-9a1e-3437849437aa)
