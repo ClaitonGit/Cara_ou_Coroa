@@ -13,5 +13,5 @@ Esse aplicativo gera tres imagens de cara ou coroa aleatorias.
 - [Android Studio]
 
 ## Layout mobile
-
-![Mobile 1](https://user-images.githubusercontent.com/55120068/264184755-7ef7705d-e72d-4fb4-9bc4-182df9e8338a.png) ![Mobile 2](https://github.com/user-attachments/assets/7d20d7c8-a7b1-485e-9a1e-3437849437aa)
+![Mobile 2](https://github.com/user-attachments/assets/7d20d7c8-a7b1-485e-9a1e-3437849437aa)
+![Mobile 1](https://github.com/user-attachments/assets/9dd17710-a428-426f-bc19-d05104c77603) 
